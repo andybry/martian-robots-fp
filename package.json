@@ -1,0 +1,17 @@
+{
+  "name": "martian-robots-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.10.0",
+    "ramda": "^0.22.0",
+    "ramda-fantasy": "^0.6.0"
+  }
+}
